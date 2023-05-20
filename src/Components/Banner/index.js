@@ -10,10 +10,6 @@ export default function Banner() {
                     <a className="nav-link" href="/contato">Contato</a>
                 </div>
 
-                <img className="img-fluid" src="./assets/img/caio-moreira.jpg" alt="Foto do Caio" />
-                <h3>Caio Moreira</h3>
-
-
             </div>
 
         </section>

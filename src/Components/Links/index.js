@@ -14,6 +14,10 @@ export default function Links() {
                     <a className="nav-link" aria-current="page" target='_blank' href="https://instagram.com/caiomoreira0605?igshid=MzRlODBiNWFlZA==">Instagram</a>
                 </div>
             </div>
+
+            <div className='logo d-flex justify-content-center'>
+                <img className="img-fluid" src="./assets/favicon.svg" alt="Foto do Caio" />
+            </div>
         </section>
     )
 }
