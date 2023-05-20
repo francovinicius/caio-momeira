@@ -12,8 +12,8 @@ function App() {
     <Banner />
 
       <Routes>
-        <Route path="/" element={<About />} />
-        <Route path="/links" element={<Links />} />
+        <Route path="/" element={<Links />} />
+        <Route path="/About" element={<About />} />
         <Route path="/contato" element={<Form />} />
       </Routes>
 
