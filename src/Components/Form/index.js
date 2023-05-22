@@ -14,7 +14,7 @@ export default function Form() {
                     <input type="text" name="name" aria-label="First name" className=" form-control " required placeholder='Digite seu nome' />
                     <input type="email" name="email" aria-label="E-mail" className=" form-control" required placeholder='Digite seu e-mail' />
                     <input type="tel" name="tel" aria-label="tel" className=" form-control " required placeholder='Digite seu telefone com DDD' />
-                    <input type="igreja-organizacao" name="text" aria-label="text" className=" form-control " required placeholder='Nome da empresa ou organização' />
+                    <input type="empresa-organizacao" name="text" aria-label="text" className=" form-control " required placeholder='Nome da empresa ou organização' />
                     <textarea className="form-control " name="menssage" id="exampleFormControlTextarea1" rows="3" required placeholder='Digite a mensagem desejada'></textarea>
 
                     <button type="button d-flex justify-content-center submit" className="btn btnn" target="blank">Enviar</button>
